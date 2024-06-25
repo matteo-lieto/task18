@@ -1,0 +1,33 @@
+# Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+env/
+venv/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Log files and databases
+*.log
+*.sql
+*.db
+
+# Sensitive configuration files
+config.py
+secret.py
+
+# Python distribution artefacts
+dist/
+build/
+*.egg-info/
+
