@@ -30,4 +30,5 @@ secret.py
 dist/
 build/
 *.egg-info/
+o
 
